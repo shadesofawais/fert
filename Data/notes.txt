@@ -1,0 +1,114 @@
+add points
+create surfaces >> 1m and 5m (design) >> 2m and 10m back
+draw 5 points polyLine righ click >> Enter
+Alignment >> create Alignment from Object >> select poluLine and click Reverse on input bar >> type name channel cl >> select all labels click ok
+
+profile >> create surface profile >> select surface name and click Add >> draw in profile view
+
+on 4th next dialogue box click create profile view
+click on any place to create channel
+profile >> profile creation tool >> click on created drawing
+
+on name type chanel invert level click ok a new window will open with name profile layout tools
+click on first icon >> and click draw tangents >> draw tangent line
+from 3rd row mid to 2nd point on 3nd row mid 1st row mid
+
+
+Assembly >> create Assembly on name type ABC click ok and click on screen
+
+click on tool palates icon
+trench >> channel >> click on marker recently crated >> right click >> Enter
+
+click on newly created design >> on top menu click on subassembly channel >> properties
+on properties go to parameters >> depth >> 5.000m and bottom width >> 4.000m and sideslope >> 1.50:1
+lining depth >> 0.200m >> left extension height 0.000m and left backslope width >> 0.000m
+left backslope 0.00:1 and right extension height >> 0.000m and right backslope width 0.000m
+right backslope 0.00:1
+
+on tool palate click basic >> basic shoulder and select drawing 1st top edge right click >> Enter
+click on new created shoulder  its properties panel wil showup
+goto parameters >> width >> 4
+slope >> -2
+
+
+
+on tool palate click basic >> basicguardrail click on new created drawing upper cotner right click >> 
+on tool palate click basic >> basiccrub >> click on mid of right side of new created drawing
+
+on tool palate click basic >> basicLane click on new created yellow drawing right side upper side not on right upper top corner
+right click enter
+click on this new created drawing its property panel will showup
+go to parameters >> width >> 12.400
+slope >> -1.5
+
+
+
+
+on tool palate click basic >> basiccrub >> click on top right corner of new drawing
+on tool palate click basic >> basicSideWalk >> click on top right corner of new drawing
+right click >> enter
+click on new created drawing a property window will open
+goto parameters >> width >> 2.5
+
+on tool palate click basic >> sideslopecutditch >> click on top right corner of new drawing
+right click >> enter
+click on newly created slope its property panel will open
+goto parameters >> fill slope 2.00:1
+foreslope slope >2.00:1
+
+click on "cut slope lyout mode" >> on top menu clik on mirror click on drawing 1st part top corner
+ 
+close tool palate window
+
+on home tab goto corridor >> corridor
+a
+ a new window will open
+name >> u1
+assembly >> abc
+target surface >> xyz click ok
+a new window will open click on apply 
+new window will open >> build corridor >> ok
+
+now select newly created corridor on very 1st drawing
+on top meny >> cooridor properties >> cooridor properties 
+new window will open click  on surface
+click on 1st envelope icon
+overhang correction >> top inks
+in this same window specify code >> detum and click on plus icon
+now click on boundaries
+right click on 1st row >> add automatically >> daylight 
+now click on apply >>  rebuild the cooridor >> ok
+
+
+on same black window 2d wireframe >> realistic
+
+
+
+right click on drawing aarea >> surface properties
+surface style >> no display
+
+
+
+
+on same black window realistic >> shades
+
+on top analyze tab >> drive 
+and click on drawing center line
+
+a new drive tab will show up
+on eye portion 
+first eye value >> 11.500
+second eye value > 13.000
+
+
+
+on target portion 
+change 1st option 8.500m
+2nd option >> 5.000m
+
+
+change speed if needed on same tab 
+now click on play button
+
+when watched click on pause 
+and n last click close
